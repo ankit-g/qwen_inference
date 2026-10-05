@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv*/
+.env
+.env.*
+models/
+*.safetensors
+*.bin
+.ruff_cache/
+.DS_Store
