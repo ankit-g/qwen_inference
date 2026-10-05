@@ -1,7 +1,6 @@
 # Copyright 2025 The Qwen Team and The HuggingFace Inc. team. All rights
 # reserved.
-# Adapted from Transformers' chunk_gated_delta_rule, Apache-2.0.
-# See ../LICENSE-qwen35-transformers.txt.
+# Adapted from Transformers' chunk_gated_delta_rule.
 
 import torch
 from torch.nn import functional as F

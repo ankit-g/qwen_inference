@@ -1,6 +1,5 @@
 # Copyright 2025 The Qwen Team and The HuggingFace Inc. team. All rights
 # reserved.
-# Licensed under Apache-2.0; see ../LICENSE-qwen35-transformers.txt.
 
 
 from dataclasses import dataclass, fields

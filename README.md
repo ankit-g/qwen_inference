@@ -102,5 +102,4 @@ require substantial attention memory.
 ## Attribution
 
 Parts derive from the existing Qwen/Hugging Face implementation. The
-source preserves its attribution; see LICENSE-qwen35-transformers.txt
-for the accompanying Apache-2.0 license.
+source preserves its attribution.

@@ -4,7 +4,6 @@ import torch
 import pdb
 
 # Adapted from the existing Qwen/Hugging Face-derived implementation.
-# Apache-2.0; see ../LICENSE-qwen35-transformers.txt.
 
 
 def apply_partial_rope(x, cos, sin):

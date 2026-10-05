@@ -9,7 +9,6 @@ from .normalization import gated_rms_norm
 from .qwen35_chunked import gated_delta_chunked
 
 # Adapted from the existing Qwen/Hugging Face-derived implementation.
-# Apache-2.0; see ../LICENSE-qwen35-transformers.txt.
 
 
 def gated_delta_scan(query, key, value, log_decay, beta, initial_state=None):
